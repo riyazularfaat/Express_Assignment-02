@@ -2,6 +2,7 @@
 #Ignore .env file
 .env
 
-#ignore dist and node_modules
 dist
 node_modules
+.vercel
+

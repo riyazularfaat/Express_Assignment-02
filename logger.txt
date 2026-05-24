@@ -2,3 +2,27 @@
 Method -> GET 
 URL -> /api/issues/5 
 Time -> 5/23/2026, 12:35:22 AM
+
+Method -> GET 
+URL -> /favicon.ico 
+Time -> 5/23/2026, 8:57:12 AM
+
+Method -> GET 
+URL -> /api/signup 
+Time -> 5/23/2026, 8:57:29 AM
+
+Method -> GET 
+URL -> /api/issues 
+Time -> 5/23/2026, 8:57:42 AM
+
+Method -> GET 
+URL -> /api/login 
+Time -> 5/23/2026, 8:58:09 AM
+
+Method -> PATCH 
+URL -> /api/issues/14 
+Time -> 5/24/2026, 7:38:57 PM
+
+Method -> POST 
+URL -> /api/auth/login 
+Time -> 5/24/2026, 7:39:27 PM
